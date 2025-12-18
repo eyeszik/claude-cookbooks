@@ -1,0 +1,10 @@
+# Temporary files
+tmp/
+*.tmp
+
+# User-specific test files
+test_*.txt
+examples/*.txt
+
+# Output artifacts
+output/
